@@ -13,7 +13,7 @@ In May 2022 I left Toyota and enrolled at Flatiron School. I recently graduated 
 I want to take my past experiences in customer facing retail and sales team training, and the Toyota Way of continuous improvement and J-I-T pull manufacturing and leverage those experiences to develop as a software engineer and add value to a company and team.
 
 
-* 🌍  I'm based in Evansville, IN (flexible)
+* 🌍  I'm based in Seattle, WA(flexible)
 * 🖥️  See my portfolio at [discover-aliebrubaker.net/](https://discover-aliebrubaker.net/)
 * ✉️  You can contact me at [findingalberta@gmail.com](mailto:findingalberta@gmail.com)
 * 🧠  I'm learning Node.js/ExpressJS/MongoDB/mongoose
